@@ -73,6 +73,10 @@ build-profiler --next ./app --max-size 500  # 500KB limit
 - Project must be built first (`next build` or `vite build`)
 - Analyzes `.next/` or `dist/` output directories
 
+## More Tools
+
+See all dev tools: https://takawasi-social.com/en/
+
 ## License
 
 MIT
