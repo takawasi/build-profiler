@@ -1,5 +1,7 @@
 # build-profiler
 
+> **Documentation**: https://takawasi-social.com/tools/build-profiler/
+
 Profile Next.js/Vite build times per module.
 
 Find your slow modules.
